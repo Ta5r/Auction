@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Audi 250",
+      "price": "500001",
+      "owner": "admiralty20",
+      "last_bidder": "userTanay"
+    },
+    {
+      "name": "Lamborghini S50",
+      "price": "200001",
+      "owner": "susaske40",
+      "last_bidder": "userRishik"
+    },
+    {
+      "name": "Ferrari F560",
+      "price": "100001",
+      "owner": "samson35",
+      "last_bidder": "userTanay"
+    },
+    {
+      "name": "Oppo Enco Buds",
+      "price": "2651",
+      "owner": "cd@gmail.com",
+      "last_bidder": "userRishik"
+    }
+  ]
+}
